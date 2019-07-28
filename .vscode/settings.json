@@ -1,0 +1,8 @@
+{
+    "nebula-theme.materialize": true,
+    "nebula-theme.themeItalics": "3 - curly",
+    "editor.cursorWidth": 3,
+    "editor.cursorStyle": "line-thin",
+    "editor.fontSize": 20,
+    "editor.formatOnSave":true
+}
